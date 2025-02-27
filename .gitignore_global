@@ -1,0 +1,5 @@
+gh repo clone langchain-ai/social-media-agent
+node_modules/
+storage/
+*.log
+.env
